@@ -1,2 +1,15 @@
 # PowerEnJoy
-Repository for the project "PowerEnJoy" of Software Engineering 2 course at Politecnico di Milano
+Digital management system for a car‐sharing service that exclusively employs electric cars.
+
+## Project Information
+Software Engineering 2 Project
+
+Politecnico di Milano
+
+AA 2016-2017
+
+Prof. Luca Mottola
+
+## Group members
+* Flavio Primo (@flaprimo)
+* Hootan Haji Manoochehri (@Hootan-Man)
