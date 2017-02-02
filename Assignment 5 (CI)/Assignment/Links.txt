@@ -1,0 +1,17 @@
+Documentation Index
+https://ofbiz.apache.org/documentation.html
+
+Project Overview
+https://ofbiz.apache.org/apache-ofbiz-project-overview.html
+
+Technical Documentation Index
+https://cwiki.apache.org/confluence/display/OFBIZ/OFBiz+Technical+Documentation+-+Home+Page
+
+Framework Introduction Videos and Diagrams
+https://cwiki.apache.org/confluence/display/OFBIZ/Framework+Introduction+Videos+and+Diagrams
+
+JavaDocs EntityOperator
+https://ci.apache.org/projects/ofbiz/site/javadocs/org/ofbiz/entity/condition/EntityOperator.html
+
+OFBiz Entity Cookbook
+http://www.opensourcestrategies.com/ofbiz/ofbiz_entity_cookbook.txt
